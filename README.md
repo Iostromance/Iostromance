@@ -2,11 +2,7 @@
 ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
 ‎‎<p align="center">‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
 ![](https://komarev.com/ghpvc/?username=blood-bath&color=000000&label=corpses)
-‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
-‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
 <br>
-‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
-‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
 <img src= "https://i.postimg.cc/QtpzTTxp/IMG-1697.jpg" width="400" height="auto">
 <br>
   <a href="https://github.com/kittinan/spotify-github-profile">
