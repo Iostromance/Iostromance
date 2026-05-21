@@ -1,6 +1,6 @@
 
 ‎‎<p align="center">‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
-![](https://komarev.com/ghpvc/?username=blood-bath&color=000000&base=1000&label=stalkers)
+![](https://komarev.com/ghpvc/?username=blood-bath&color=000000&base=1000&label=dead+bodies)
 </p>
 <p align="center"> 
   <a href="https://github.com/kittinan/spotify-github-profile">
