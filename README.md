@@ -5,7 +5,7 @@
 
 ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
  ‎‎ 
-‎‎<p align="center">‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
+‎‎<p align="center">‎‎
 ![](https://komarev.com/ghpvc/?username=blood-bath&color=bb9d57&label=tombs)
 <br>
 <br>
