@@ -11,6 +11,7 @@
 <br>
 <sub> morgue 19 he/they istp 9w8 974 sp/sx nogender <sub/>
 <br>
+<sub> i mute people sometimes LOL!
 
 
 
