@@ -11,7 +11,7 @@
 <br>
 <sub> morgue 19 he/they istp 9w8 974 sp/sx nogender <sub/>
 <br>
-i lwk mute people i find annoying temporarily
+
 
 
 
