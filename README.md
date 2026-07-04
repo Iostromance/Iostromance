@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=blood-bath&color=1a163d&label=tombs&style=flat-square)
 <br>
 <br>
-<sub> morgue 19 he/they istp 9w8 974 sp/sx genderless<sub/>
+<sub> morgue genderless 19 he/they istp 9w8 974 sp/sx <sub/>
 <br>
 
 
