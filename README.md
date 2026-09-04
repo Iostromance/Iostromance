@@ -11,7 +11,7 @@
 <br> <img src="https://imgur.com/qA6CB7Y.png" width="500">
 <br> 
 <sub> aroace istp 9w8 sp/sx 974
-<br> 
+<br> distanced, i dont consider myself a part of any fandom 
 
 <br>
 
