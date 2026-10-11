@@ -6,7 +6,7 @@
 ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ 
  ‎‎ 
 ‎‎<p align="center">‎‎
-![](https://komarev.com/ghpvc/?username=Iostromance&color=b11000&label=hi&style=plastic)
+![](https://komarev.com/ghpvc/?username=Iostromance&color=b11000&label=heart_attacks&style=plastic)
 
 <p align="center">
   <img src="https://imgur.com/LxlR9NZ.png" width="250" alt="dn">
